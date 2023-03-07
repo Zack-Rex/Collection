@@ -90,7 +90,7 @@ Obsidian 默认不开启 Daily Note 功能，Logseq 或 RR 用户可能会很不
 ```tasks 
 not done 
 ```
-```
+
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/oiabfUBO7nd798sY99oamUhGqdrE6KAlHxMMKaDE1ibaSa2en1tGO4P67iau07DJ43sBhBpqUpBlOYf8Ieh0TOzpA/640?wx_fmt=png)  
 
@@ -285,7 +285,6 @@ Dataview 插件
 ```dataview
 list from "工作"
 ```
-```
 
 但是你会发现，上面那段代码会汇总 `工作` 文件夹中的**所有文件**，因为我们还没添加过滤条件
 
@@ -327,7 +326,7 @@ where 创建时间 >= date(today) - dur(7 days)
 where contains(标签,"日报")
 sort 创建时间 desc
 ```
-```
+
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/oiabfUBO7nd798sY99oamUhGqdrE6KAlHcPG23EqIGv9USR1X4uBcuwRS444ExW6vFR3kQfDUWknu3Cs5BnHh9A/640?wx_fmt=gif)
 
@@ -412,7 +411,7 @@ table 后面接的是你在 YAML 中打的标签；逗号要是英文输入状�
 from "" 引号里的是你所要搜索的文件夹名称
 sort 这段，表示按照阅读时间这一项进行降序排列（descend）
 你也可以把阅读时间换成评分，把 desc 换成 asc，这样一来就是按照评分进行升序
-```
+
 
 生成这样的表格效果如下图所示
 
@@ -509,7 +508,7 @@ Timelines 插件配置方法
 ```timeline
 影评
 ```
-```
+
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/oiabfUBO7nd798sY99oamUhGqdrE6KAlHX6Pr61Eah0NfBtzcLibnMzFEecVpmDpR8Nvct72EtT9vSlUb5lmV7Sg/640?wx_fmt=gif)
 
@@ -546,8 +545,3 @@ data-end="2000-10-20-00">
 =======
 
 Obsidian 现在一共有 523 个插件，我想应该没有什么需求是满足不了的。但还是要提醒一句，插件不求多，只要找到适合自己的那一两个就足够了，**如果不是为了消遣，实在不必强行创造需求**。须知吾生有涯，而折腾也无涯，把更多时间花在生产创作上才是正道。
-
-**本文首发少数派 https://sspai.com/post/72385**
-========================================
-
-![](https://mmbiz.qpic.cn/mmbiz_png/oiabfUBO7nd54znFTDbJibsfyvfo1JhOQPASoapK0D6WocltHavf47WzM0kP5iaIaZickcZg0rB9HfGWjXBeY9rhhA/640?wx_fmt=png)
