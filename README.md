@@ -1,2 +1,2 @@
 # Collection
-收藏
+使用浏览器插件SimpRead剪藏网页为Markdown文件，储存于GitHub
